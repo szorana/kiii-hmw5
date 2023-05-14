@@ -1,6 +1,6 @@
 # kiii-hmw5
 
-Github Actions
+GitHub Actions
 
 Kubernetes Pods
 
