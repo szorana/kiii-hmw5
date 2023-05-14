@@ -3,3 +3,5 @@
 Github Actions
 
 Kubernetes Pods
+
+Kubernetes Namespaces
